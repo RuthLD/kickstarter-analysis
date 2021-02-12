@@ -1,10 +1,8 @@
 # Analysis of Kickstarter Campaigns
-Uncovering trends in Kickstarter data through excel analysis. 
-The goal is to answer if the start date affects the success or failer of theater production kickstartes.
+Uncovering trends in Kickstarter data through excel analysis.
 
 ## Project overview
 Challenge #1 of Data Analytics Boot Camp from Columbia Engineering
-
 This project was an Excel analysis of Kickstarter data to identify trends in successful Kickstarter campaigns. The concern was if Kickstarter is a good fundraising platform for a theater production campaign with a target of $10,000. If it was the goal was to provide a campaign outline that mirrors successfully funded Kickstarter based on the identified trends.
 
 ## Analysis and challenges
@@ -28,10 +26,10 @@ My formula missed Kickstarters that had a goal of precisely 5000, 10000, 15000, 
 
 ## Results
 ### Theater Outcomes based on Launch Date
-More Kickstarter campaigns were launched in May than in the other months. The month with the highest count of successful theater campaigns was May. However, May was also the month with the highest count of failed theater campaigns. In total, about two-thirds of the theater Kickstarters launched in May succeed, and one third failed. The second-highest number of Kickstarter launches occurred during June, and during June, the second-highest count of successful Kickstarters occurred. The second highest count of failed outcomes occurred for theater Kickstarters launched in October. A planned launch date in the fall would reduce the likelihood that the campaign would succeed. Based on the outcomes launching a theater Kickstarter in May or June would result in a larger pool of competing fundraisers, but there is a greater likelihood that the campaign will succeed compared to any of the other months.
+More Kickstarter campaigns were launched in May than in the other months. The month with the highest count of successful theater campaigns was May. However, May was also the month with the highest count of failed theater campaigns. In total, about two-thirds of the theater Kickstarters launched in May succeed, and one third failed. The second-highest number of Kickstarter launches occurred during June, and June had the second-highest count of successful Kickstarters. The second-highest count of failed outcomes occurred in October. A planned launch date in the fall would reduce the likelihood that the campaign would succeed. Based on the outcomes launching a theater Kickstarter in May or June would result in a larger pool of competing fundraisers, but there is a greater likelihood that the campaign will succeed compared to any of the other months.
 
 ### Outcomes based on Goals
-The goal of a Kickstarter campaign with the subcategory plays dramatically affected the percentage of successful and failed outcomes. For example, Kickstarters with a goal below $4999 had a successful outcome between 76% to 73%, while Kickstarters with a goal between $5000 to $9999 only had 37% successful outcomes. That was a significant drop based on goal range. Theater plays Kickstarters with a goal between $10,000 to $14,999 had a successful outcome percentage of 54%, and the successful outcome percentage increases to 86% when the range increases to $15,000 to $19,999. Based on the data launching a Kickstarter for a theater play with a $10,000 or higher goal, it is more likely to succeed than fail.
+The goal of a Kickstarter campaign with the subcategory plays dramatically affected the percentage of successful and failed outcomes. For example, Kickstarters with a goal below $4999 had a successful outcome between 76% to 73%, while Kickstarters with a goal between $5000 to $9999 were only 37% successful. That was a significant drop based on goal range. Theater plays Kickstarters with a goal between $10,000 to $14,999 had a successful outcome of 54%, and the successful outcome increases to 86% when the range increases to $15,000 to $19,999. Based on the data launching a Kickstarter for a theater play with a $10,000 or higher goal, is more likely to succeed than fail.
 
 ### Limitations of this Dataset
 The most recent date included in the dataset is from March 2017. The dataset is almost five years old. The age of the dataset could limit how accurate the data is related to crowdfunding in the year 2021. The data sample size is over one thousand for plays, but that number may have increased in the past five years. There are several Kickstarters with goals of $1.00 that received much larger pledge amounts—the inclusion of these impact the percentage of successful outcomes of goals below $1000.
