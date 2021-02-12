@@ -3,6 +3,7 @@ Uncovering trends in Kickstarter data through excel analysis.
 
 ## Project overview
 Challenge #1 of Data Analytics Boot Camp from Columbia Engineering
+
 This project was an Excel analysis of Kickstarter data to identify trends in successful Kickstarter campaigns. The concern was if Kickstarter is a good fundraising platform for a theater production campaign with a target of $10,000. If it was the goal was to provide a campaign outline that mirrors successfully funded Kickstarter based on the identified trends.
 
 ## Analysis and challenges
